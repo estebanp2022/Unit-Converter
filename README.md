@@ -1,6 +1,6 @@
 # Unit-Converter
 
-Unit Converter Project
+A very basic/simple project to convert units. Responsiveness was not a focus for this project so layout might break at smaller screens.
 
 ![](./screenshot.png)
 
